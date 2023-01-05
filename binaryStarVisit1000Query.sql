@@ -1,5 +1,5 @@
--- leave out those who have bitmask #4, #19, #22,
--- caution with those who have bitmask #3, #18, #21, #0
+-- leave out those who have bitmask #0, #4, #19, #22,
+-- caution with those who have bitmask #3, #18, #21
 
 SELECT TOP 1000
 star.apogee_id, star.apstar_id, star.ra, star.dec, star.nvisits,
