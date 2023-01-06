@@ -5,7 +5,7 @@ import csv
 import numpy as np
 import matplotlib.pyplot as plt
 
-def csv_conversion(file_directory, filename):
+    def csv_conversion(file_directory, filename):
     fields = ['apogee_id', 'period (days)']
     rows = computePeriod(file_directory)
     filename = filename     # name of csv file
