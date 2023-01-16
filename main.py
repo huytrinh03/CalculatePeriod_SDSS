@@ -62,4 +62,4 @@ def computePeriod(csv_file):
 
 if __name__ == "__main__":
     #print(computePeriod('/Users/trinhnhathuy/Documents/2.McGill/Academic/3.2022Fall/SideProject_SDSS/binaryStarVisit100000.csv'))
-    csv_conversion('/Users/trinhnhathuy/Documents/2.McGill/Academic/3.2022Fall/SideProject_SDSS/binaryStarVisit100000.csv', 'binaryStarPeriod100000.csv')
+    csv_conversion('/Users/trinhnhathuy/Documents/binaryStarVisit100000.csv', 'binaryStarPeriod100000.csv')
